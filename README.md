@@ -1,8 +1,3 @@
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/LOUSANPANG/count.svg" />
-</p>
-
 - 🎓 I’m a front-end development engineer.
 - 🔭 I’m currently working on Beijing.
 - 📚 I work using:
