@@ -1,5 +1,5 @@
 - 🎓 I’m a front-end development engineer.
-- 🔭 I’m currently working on Beijing.
+- 🔭 I’m currently working on JiNan.
 - 📚 I work using:
   ![Vue](https://img.shields.io/badge/-Vue-3b2e5a?style=plastic&logo=vue.js)
   ![uni-app](https://img.shields.io/badge/-uniapp-3b2e5a?style=plastic&logo=vue.js)
